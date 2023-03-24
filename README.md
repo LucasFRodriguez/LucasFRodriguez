@@ -1,4 +1,10 @@
-## Opa, Tudo bom? Me chamo Lucas e estudo programação, estou sempre aprendendo, aqui você pode acompanhar um pouco da minha evolução...
+## Olá! Meu nome é Lucas Ferreira Rodriguez e sou estudante de Engenharia de Software, atualmente no terceiro semestre. Com experiência em desenvolvimento web, utilizo as tecnologias de Front-end, como CSS, HTML, JavaScript, React JS e WordPress.
+
+Busco aprimorar meus conhecimentos em Metodologias Ágeis, em especial, o Scrum, que utilizo para gerenciamento de projetos. Procuro sempre estar atualizado com as novas tecnologias e tendências do mercado, além de me dedicar ao desenvolvimento de interfaces responsivas e dinâmicas, visando a melhor experiência do usuário.
+
+Estou em busca de uma oportunidade de emprego CLT como desenvolvedor Front-end, onde possa aplicar meus conhecimentos e crescer profissionalmente. Tenho como valores a dedicação, o comprometimento e a qualidade no trabalho entregue.
+
+Caso esteja procurando por um profissional entusiasmado, dedicado e com habilidades em Front-end, CSS, HTML, JavaScript, React JS, WordPress e Metodologias Ágeis, fico à disposição para trocarmos ideias e discutirmos como posso contribuir para o sucesso da sua empresa.
 <div align="center">
   <a href="https://github.com/LucasFRodriguez">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=LucasFRodriguez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
