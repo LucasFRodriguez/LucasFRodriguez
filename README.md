@@ -1,4 +1,4 @@
-## Olá! Meu nome é Lucas Ferreira Rodriguez e sou estudante de Engenharia de Software, atualmente no terceiro semestre. Com experiência em desenvolvimento web, utilizo as tecnologias de Front-end, como CSS, HTML, JavaScript, React JS e WordPress.
+## Olá! Meu nome é Lucas Ferreira Rodriguez e sou estudante de Engenharia de Software, atualmente no quarto semestre. Com experiência em desenvolvimento web, utilizo as tecnologias de Front-end, como CSS, HTML, JavaScript, React JS e WordPress.
 
 <div align="center">
   <a href="https://github.com/LucasFRodriguez">
