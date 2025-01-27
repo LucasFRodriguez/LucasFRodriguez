@@ -1,4 +1,4 @@
-## Olá! Meu nome é Lucas Ferreira Rodriguez e sou estudante de Engenharia de Software, atualmente no quinto semestre. Sigo cada dia aprendendo mais e correndo atras de novos conhecimentos.
+## Olá! Meu nome é Lucas Ferreira Rodriguez e sou estudante de Engenharia de Software, atualmente no sétimo semestre. Sigo cada dia aprendendo mais e correndo atras de novos conhecimentos.
 
 <div align="center">
   <a href="https://github.com/LucasFRodriguez">
